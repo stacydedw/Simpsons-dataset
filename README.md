@@ -12,4 +12,4 @@
 - **Оценка качества**: confusion matrix по 18 классам, анализ графиков accuracy/loss на train и validation
 
 - **Язык**: Python
- **Среда**: Jupyter Notebook
+- **Среда**: Jupyter Notebook
